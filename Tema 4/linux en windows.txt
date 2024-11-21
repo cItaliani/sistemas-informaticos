@@ -1,0 +1,8 @@
+se abre CMD 
+escribimos el comando WSL
+
+despues comando wsl --list --online
+aparecen las opciones que tenemos para instalar.
+
+escohemos la que que queremos instalar
+wsl --install -d (+nombre de la izquierda)
